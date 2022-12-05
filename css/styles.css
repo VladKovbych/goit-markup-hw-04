@@ -86,7 +86,7 @@ button {
 .header-container {
 	display: flex;
 	align-items: center;
-	border: 1px solid #ECECEC;
+	border-bottom: 1px solid #ECECEC;
 }
 
 .header-nav-list {
